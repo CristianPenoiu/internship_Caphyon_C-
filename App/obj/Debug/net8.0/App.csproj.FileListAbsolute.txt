@@ -1,0 +1,14 @@
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\bin\Debug\net8.0\App.exe
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\bin\Debug\net8.0\App.deps.json
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\bin\Debug\net8.0\App.runtimeconfig.json
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\bin\Debug\net8.0\App.dll
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\bin\Debug\net8.0\App.pdb
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\obj\Debug\net8.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\obj\Debug\net8.0\App.AssemblyInfoInputs.cache
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\obj\Debug\net8.0\App.AssemblyInfo.cs
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\obj\Debug\net8.0\App.csproj.CoreCompileInputs.cache
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\obj\Debug\net8.0\App.dll
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\obj\Debug\net8.0\refint\App.dll
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\obj\Debug\net8.0\App.pdb
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\obj\Debug\net8.0\App.genruntimeconfig.cache
+C:\Users\cristi\Desktop\AN3_Lab_sem2\Caphyon_C#\App\App\obj\Debug\net8.0\ref\App.dll
